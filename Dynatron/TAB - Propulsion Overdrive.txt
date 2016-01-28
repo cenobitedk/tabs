@@ -16,8 +16,8 @@ A||*-------------------------*||
 E||---------------------------||
 
 * Light palm muting.
-  Repeat part and towards the break
-  loosen grip to almost no muting.
+  Repeat part and towards the break slide
+  palm towards bridge to almost no muting.
 
 
 Part 2 - Chorus
@@ -66,6 +66,7 @@ E|-8--8--8--8--8--8--8-\3--3--3--3--3--3--3--3--3---||
 
 Version history:
 
+1.2 - 2016-01-28 - Changed PM note description for part 1.
 1.1 - 2016-01-28 - Corrected part 1 and 2, improved part 3.
                    Improved overall notation.
 1.0 - 2016-01-28 - Initial version
